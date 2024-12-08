@@ -1,2 +1,2 @@
-# DataScienceEcosytem-CourseraProject
-This is my Final Assignment in IBM data science tool course.
+# IBM Data Science Course - Projects
+This is my project's IBM data science course.
