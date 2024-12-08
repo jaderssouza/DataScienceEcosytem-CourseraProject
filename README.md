@@ -1,2 +1,2 @@
 # IBM Data Science Course - Projects
-This is my project's IBM data science course.
+These are my IBM data science course projects.
